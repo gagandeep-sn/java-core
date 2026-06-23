@@ -1,24 +1,28 @@
 # Java Practice Repository
 
-Total Programs: 13
+Total Programs: 14
 
 ## Categories
 
 ### Collections (1)
 
-* [WordCount](Collections/WordCount.java) [O(n), O(n)]
+* [WordCount](Collections/WordCount.java)
 
 ### Input Output (12)
 
-* [Area](Input Output/Area.java) [O(1), O(1)]
-* [Calaculator](Input Output/Calaculator.java) [O(n), O(1)]
-* [CountNum](Input Output/CountNum.java) [O(n), O(1)]
-* [Fibbonachi](Input Output/Fibbonachi.java) [O(n), O(1)]
-* [GreaterNum](Input Output/GreaterNum.java) [O(1), O(1)]
-* [HelloWorld](Input Output/HelloWorld.java) [O(1), O(1)]
-* [Reversenum](Input Output/Reversenum.java) [O(n), O(1)]
-* [Test](Input Output/Test.java) [O(1), O(1)]
-* [name](Input Output/name.java) [O(1), O(1)]
-* [SumTwoNumbers](Input Output/SumTwoNumbers.java) [O(1), O(1)]
-* [CountDown](Input Output/CountDown.java) [O(n), O(n)]
-* [SwitchCalculator](Input Output/SwitchCalculator.java) [O(1), O(1)]
+* [SwitchCalculator](Input Output/SwitchCalculator.java)
+* [CountDown](Input Output/CountDown.java)
+* [SumTwoNumbers](Input Output/SumTwoNumbers.java)
+* [HelloWorld](Input Output/HelloWorld.java)
+* [Reversenum](Input Output/Reversenum.java)
+* [Test](Input Output/Test.java)
+* [name](Input Output/name.java)
+* [Area](Input Output/Area.java)
+* [Calaculator](Input Output/Calaculator.java)
+* [CountNum](Input Output/CountNum.java)
+* [Fibbonachi](Input Output/Fibbonachi.java)
+* [GreaterNum](Input Output/GreaterNum.java)
+
+### Searching (1)
+
+* [LinearSearch](Searching/LinearSearch.java)

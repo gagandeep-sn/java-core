@@ -1,0 +1,49 @@
+# Weekly Report — 2026 Week 26
+
+**Period:** 2026-06-22 - 2026-06-28
+
+## Programs Added: 14
+
+| Program | Category | Difficulty |
+|---|---|---|
+| LinearSearch | Searching | Easy |
+| SwitchCalculator | Input Output | Easy |
+| CountDown | Input Output | Easy |
+| WordCount | Collections | Easy |
+| SumTwoNumbers | Input Output | Easy |
+| HelloWorld | Input Output | Easy |
+| Reversenum | Input Output | Easy |
+| Test | Input Output | Easy |
+| name | Input Output | Easy |
+| Area | Input Output | Easy |
+| Calaculator | Input Output | Easy |
+| CountNum | Input Output | Easy |
+| Fibbonachi | Input Output | Easy |
+| GreaterNum | Input Output | Easy |
+
+## Categories Covered
+
+- Input Output: 12
+- Searching: 1
+- Collections: 1
+
+## Concepts Covered
+
+- Scanner
+- User Input
+- Standard I/O
+- Linear Search
+- HashMap
+- Hashing
+
+## Difficulty Distribution
+
+- Easy: 14
+
+## Weakest Category
+
+**Collections** — only 1 program(s) this week. Try adding more!
+
+## Weekly Streak
+
+:fire: 1 week(s) in a row!
