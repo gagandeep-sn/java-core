@@ -2,10 +2,14 @@
 
 **Period:** 2026-06-22 - 2026-06-28
 
-## Programs Added: 17
+## Programs Added: 21
 
 | Program | Category | Difficulty |
 |---|---|---|
+| InputUntil0 | Input Output | Easy |
+| Main | Input Output | Easy |
+| SubtractProductAndSum | Input Output | Easy |
+| Volumeofcone | Input Output | Easy |
 | FactorOfNum | Input Output | Easy |
 | ReverseArray | Input Output | Easy |
 | MaxElement | Input Output | Easy |
@@ -26,7 +30,7 @@
 
 ## Categories Covered
 
-- Input Output: 15
+- Input Output: 19
 - Searching: 1
 - Collections: 1
 
@@ -41,7 +45,7 @@
 
 ## Difficulty Distribution
 
-- Easy: 17
+- Easy: 21
 
 ## Weakest Category
 

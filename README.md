@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 17
+Total Programs: 21
 
 ## Categories
 
@@ -8,8 +8,12 @@ Total Programs: 17
 
 * [WordCount](Collections/WordCount.java)
 
-### Input Output (15)
+### Input Output (19)
 
+* [InputUntil0](Input Output/InputUntil0.java)
+* [Main](Input Output/Main.java)
+* [SubtractProductAndSum](Input Output/SubtractProductAndSum.java)
+* [Volumeofcone](Input Output/Volumeofcone.java)
 * [FactorOfNum](Input Output/FactorOfNum.java)
 * [ReverseArray](Input Output/ReverseArray.java)
 * [MaxElement](Input Output/MaxElement.java)
