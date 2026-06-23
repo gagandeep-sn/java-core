@@ -2,10 +2,11 @@
 
 **Period:** 2026-06-22 - 2026-06-28
 
-## Programs Added: 14
+## Programs Added: 15
 
 | Program | Category | Difficulty |
 |---|---|---|
+| MaxElement | Input Output | Easy |
 | LinearSearch | Searching | Easy |
 | SwitchCalculator | Input Output | Easy |
 | CountDown | Input Output | Easy |
@@ -23,7 +24,7 @@
 
 ## Categories Covered
 
-- Input Output: 12
+- Input Output: 13
 - Searching: 1
 - Collections: 1
 
@@ -38,7 +39,7 @@
 
 ## Difficulty Distribution
 
-- Easy: 14
+- Easy: 15
 
 ## Weakest Category
 
