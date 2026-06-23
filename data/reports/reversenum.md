@@ -15,11 +15,11 @@ Easy
 
 ## Time Complexity
 
-N/A
+O(n)
 
 ## Space Complexity
 
-N/A
+O(1)
 
 ## Interview Relevance
 
