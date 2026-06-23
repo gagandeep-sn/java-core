@@ -1,8 +1,12 @@
 # Java Practice Repository
 
-Total Programs: 10
+Total Programs: 11
 
 ## Categories
+
+### Collections (1)
+
+* [WordCount](Collections/WordCount.java)
 
 ### Input Output (10)
 
