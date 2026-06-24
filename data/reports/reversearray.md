@@ -18,7 +18,6 @@ Easy
 2. While left pointer is less than right pointer, process the elements at both positions
 3. Move left pointer forward and right pointer backward after each iteration
 4. Stop when pointers meet or cross — all elements have been processed
-5. The main method ties everything together — it sets up test data and invokes the core logic
 
 ## Time Complexity
 

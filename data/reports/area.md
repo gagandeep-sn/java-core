@@ -20,7 +20,6 @@ Easy
 3. Perform the required computation with the input values
 4. Display the result using System.out.println()
 5. Close the scanner to release system resources
-6. The main method ties everything together — it sets up test data and invokes the core logic
 
 ## Time Complexity
 

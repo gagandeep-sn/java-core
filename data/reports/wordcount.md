@@ -20,7 +20,6 @@ Easy
 3. For each element, check if it exists in the map using getOrDefault or containsKey
 4. Update the map with the new count or mapping as needed
 5. After the loop, the map contains the aggregated results
-6. The main method ties everything together — it sets up test data and invokes the core logic
 
 ## Time Complexity
 

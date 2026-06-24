@@ -19,7 +19,6 @@ Easy
 3. For the recursive case, call the same method with a modified argument (moving toward the base case)
 4. Combine the result of the recursive call with the current value
 5. The call stack unwinds once the base case is reached
-6. The main method ties everything together — it sets up test data and invokes the core logic
 
 ## Time Complexity
 

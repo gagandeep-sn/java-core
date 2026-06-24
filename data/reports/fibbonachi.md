@@ -18,7 +18,6 @@ Easy
 1. Loop through each element in the array or range
 2. Perform the required operation on each element
 3. Accumulate or transform the result as needed
-4. The main method ties everything together — it sets up test data and invokes the core logic
 
 ## Time Complexity
 

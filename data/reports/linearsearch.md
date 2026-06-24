@@ -14,11 +14,11 @@ Easy
 
 ## Code Logic
 
-1. Iterate through the array or collection element by element
-2. Compare each element against a condition inside the loop
-3. Track the result (max, min, count, or a specific value) as you go
-4. After the loop ends, return or print the final result
-5. The main method ties everything together — it sets up test data and invokes the core logic
+1. Define a base case that stops the recursion (typically a condition like n <= 1)
+2. Return a fixed value for the base case
+3. For the recursive case, call the same method with a modified argument (moving toward the base case)
+4. Combine the result of the recursive call with the current value
+5. The call stack unwinds once the base case is reached
 
 ## Time Complexity
 
