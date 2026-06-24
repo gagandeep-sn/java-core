@@ -26,7 +26,7 @@ O(n²)
 
 ## Space Complexity
 
-O(n)
+O(1)
 
 ## Interview Relevance
 

@@ -38,4 +38,4 @@ Beginner
 
 ## Explanation
 
-A input output program focusing on Standard I/O.
+A recursion program focusing on Recursion.
