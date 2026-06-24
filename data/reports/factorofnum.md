@@ -13,6 +13,13 @@ Easy
 * Scanner
 * User Input
 
+## Code Logic
+
+1. Use a while loop with a condition that evaluates each iteration
+2. Update the loop variable inside the body to avoid an infinite loop
+3. Exit when the condition becomes false
+4. The main method ties everything together — it sets up test data and invokes the core logic
+
 ## Time Complexity
 
 O(n)
