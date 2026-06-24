@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 22
+Total Programs: 23
 
 ## Categories
 
@@ -8,9 +8,8 @@ Total Programs: 22
 
 * [WordCount](Collections/WordCount.java)
 
-### Input Output (20)
+### Input Output (19)
 
-* [FactorialRecursion](Input Output/FactorialRecursion.java)
 * [InputUntil0](Input Output/InputUntil0.java)
 * [Main](Input Output/Main.java)
 * [SubtractProductAndSum](Input Output/SubtractProductAndSum.java)
@@ -30,6 +29,11 @@ Total Programs: 22
 * [CountNum](Input Output/CountNum.java)
 * [Fibbonachi](Input Output/Fibbonachi.java)
 * [GreaterNum](Input Output/GreaterNum.java)
+
+### Recursion (2)
+
+* [FibonacciRecursion](Recursion/FibonacciRecursion.java)
+* [FactorialRecursion](Recursion/FactorialRecursion.java)
 
 ### Searching (1)
 

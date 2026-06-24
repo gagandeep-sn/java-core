@@ -2,11 +2,12 @@
 
 **Period:** 2026-06-22 - 2026-06-28
 
-## Programs Added: 22
+## Programs Added: 23
 
 | Program | Category | Difficulty |
 |---|---|---|
-| FactorialRecursion | Input Output | Easy |
+| FibonacciRecursion | Recursion | Easy |
+| FactorialRecursion | Recursion | Easy |
 | InputUntil0 | Input Output | Easy |
 | Main | Input Output | Easy |
 | SubtractProductAndSum | Input Output | Easy |
@@ -31,7 +32,8 @@
 
 ## Categories Covered
 
-- Input Output: 20
+- Input Output: 19
+- Recursion: 2
 - Searching: 1
 - Collections: 1
 
@@ -40,13 +42,14 @@
 - Scanner
 - User Input
 - Standard I/O
+- Recursion
 - Linear Search
 - HashMap
 - Hashing
 
 ## Difficulty Distribution
 
-- Easy: 22
+- Easy: 23
 
 ## Weakest Category
 
