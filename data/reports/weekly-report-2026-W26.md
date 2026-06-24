@@ -2,10 +2,11 @@
 
 **Period:** 2026-06-22 - 2026-06-28
 
-## Programs Added: 21
+## Programs Added: 22
 
 | Program | Category | Difficulty |
 |---|---|---|
+| FactorialRecursion | Input Output | Easy |
 | InputUntil0 | Input Output | Easy |
 | Main | Input Output | Easy |
 | SubtractProductAndSum | Input Output | Easy |
@@ -30,7 +31,7 @@
 
 ## Categories Covered
 
-- Input Output: 19
+- Input Output: 20
 - Searching: 1
 - Collections: 1
 
@@ -45,7 +46,7 @@
 
 ## Difficulty Distribution
 
-- Easy: 21
+- Easy: 22
 
 ## Weakest Category
 
