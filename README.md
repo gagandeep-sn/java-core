@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 23
+Total Programs: 24
 
 ## Categories
 
@@ -38,3 +38,7 @@ Total Programs: 23
 ### Searching (1)
 
 * [LinearSearch](Searching/LinearSearch.java)
+
+### Sorting (1)
+
+* [SelectionSort](Sorting/SelectionSort.java)

@@ -2,10 +2,11 @@
 
 **Period:** 2026-06-22 - 2026-06-28
 
-## Programs Added: 23
+## Programs Added: 24
 
 | Program | Category | Difficulty |
 |---|---|---|
+| SelectionSort | Sorting | Easy |
 | FibonacciRecursion | Recursion | Easy |
 | FactorialRecursion | Recursion | Easy |
 | InputUntil0 | Input Output | Easy |
@@ -34,6 +35,7 @@
 
 - Input Output: 19
 - Recursion: 2
+- Sorting: 1
 - Searching: 1
 - Collections: 1
 
@@ -42,6 +44,7 @@
 - Scanner
 - User Input
 - Standard I/O
+- Selection Sort
 - Recursion
 - Linear Search
 - HashMap
@@ -49,7 +52,7 @@
 
 ## Difficulty Distribution
 
-- Easy: 23
+- Easy: 24
 
 ## Weakest Category
 
