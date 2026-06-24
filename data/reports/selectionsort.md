@@ -15,10 +15,12 @@ Easy
 ## Code Logic
 
 1. Get the length of the array
-2. Outer loop runs n-1 passes over the array
-3. Inner loop compares adjacent elements and swaps them if they're in the wrong order
-4. After each pass, the next largest element settles at its correct position (bubbles up)
-5. Repeat until the array is fully sorted
+2. Outer loop marks where the next smallest element belongs
+3. Inner loop scans the rest of arr to find the smallest unsorted element
+4. Save the index of the smallest element found
+5. Swap the smallest element with the element at the current position
+6. Move to the next position and repeat
+7. After sorting, arr is arranged from smallest to largest
 
 ## Time Complexity
 
