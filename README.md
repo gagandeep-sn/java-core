@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 25
+Total Programs: 27
 
 ## Categories
 
@@ -8,8 +8,10 @@ Total Programs: 25
 
 * [WordCount](Collections/WordCount.java)
 
-### Input Output (20)
+### Input Output (22)
 
+* [Factorial](Input Output/Factorial.java)
+* [TakeNumTill0andFindLargest](Input Output/TakeNumTill0andFindLargest.java)
 * [ElectricityBill](Input Output/ElectricityBill.java)
 * [InputUntil0](Input Output/InputUntil0.java)
 * [Main](Input Output/Main.java)
