@@ -2,10 +2,11 @@
 
 **Period:** 2026-06-22 - 2026-06-28
 
-## Programs Added: 27
+## Programs Added: 28
 
 | Program | Category | Difficulty |
 |---|---|---|
+| AverageofNnum | Input Output | Easy |
 | Factorial | Input Output | Easy |
 | TakeNumTill0andFindLargest | Input Output | Easy |
 | ElectricityBill | Input Output | Easy |
@@ -36,7 +37,7 @@
 
 ## Categories Covered
 
-- Input Output: 22
+- Input Output: 23
 - Recursion: 2
 - Sorting: 1
 - Searching: 1
@@ -55,7 +56,7 @@
 
 ## Difficulty Distribution
 
-- Easy: 27
+- Easy: 28
 
 ## Weakest Category
 
