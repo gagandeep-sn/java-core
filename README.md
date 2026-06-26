@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 29
+Total Programs: 34
 
 ## Categories
 
@@ -8,8 +8,13 @@ Total Programs: 29
 
 * [WordCount](Collections/WordCount.java)
 
-### Input Output (24)
+### Input Output (29)
 
+* [CalculateDistBetweenTwoPoint](Input Output/CalculateDistBetweenTwoPoint.java)
+* [CalculateDiscount](Input Output/CalculateDiscount.java)
+* [DepreciationVal](Input Output/DepreciationVal.java)
+* [PowerJava](Input Output/PowerJava.java)
+* [CalculateCommisionPercentage](Input Output/CalculateCommisionPercentage.java)
 * [BattingAvg](Input Output/BattingAvg.java)
 * [AverageofNnum](Input Output/AverageofNnum.java)
 * [Factorial](Input Output/Factorial.java)

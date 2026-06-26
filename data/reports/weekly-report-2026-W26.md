@@ -2,10 +2,15 @@
 
 **Period:** 2026-06-22 - 2026-06-28
 
-## Programs Added: 29
+## Programs Added: 34
 
 | Program | Category | Difficulty |
 |---|---|---|
+| CalculateDistBetweenTwoPoint | Input Output | Easy |
+| CalculateDiscount | Input Output | Easy |
+| DepreciationVal | Input Output | Easy |
+| PowerJava | Input Output | Easy |
+| CalculateCommisionPercentage | Input Output | Easy |
 | BattingAvg | Input Output | Easy |
 | AverageofNnum | Input Output | Easy |
 | Factorial | Input Output | Easy |
@@ -38,7 +43,7 @@
 
 ## Categories Covered
 
-- Input Output: 24
+- Input Output: 29
 - Recursion: 2
 - Sorting: 1
 - Searching: 1
@@ -57,7 +62,7 @@
 
 ## Difficulty Distribution
 
-- Easy: 29
+- Easy: 34
 
 ## Weakest Category
 
