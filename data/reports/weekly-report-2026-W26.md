@@ -2,10 +2,11 @@
 
 **Period:** 2026-06-22 - 2026-06-28
 
-## Programs Added: 28
+## Programs Added: 29
 
 | Program | Category | Difficulty |
 |---|---|---|
+| BattingAvg | Input Output | Easy |
 | AverageofNnum | Input Output | Easy |
 | Factorial | Input Output | Easy |
 | TakeNumTill0andFindLargest | Input Output | Easy |
@@ -37,7 +38,7 @@
 
 ## Categories Covered
 
-- Input Output: 23
+- Input Output: 24
 - Recursion: 2
 - Sorting: 1
 - Searching: 1
@@ -56,7 +57,7 @@
 
 ## Difficulty Distribution
 
-- Easy: 28
+- Easy: 29
 
 ## Weakest Category
 
