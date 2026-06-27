@@ -2,10 +2,11 @@
 
 **Period:** 2026-06-22 - 2026-06-28
 
-## Programs Added: 36
+## Programs Added: 37
 
 | Program | Category | Difficulty |
 |---|---|---|
+| CalculateAverageMarks | Input Output | Easy |
 | CompoundIntrest | Input Output | Easy |
 | CalculateCGPA | Input Output | Easy |
 | CalculateDistBetweenTwoPoint | Input Output | Easy |
@@ -45,7 +46,7 @@
 
 ## Categories Covered
 
-- Input Output: 31
+- Input Output: 32
 - Recursion: 2
 - Sorting: 1
 - Searching: 1
@@ -64,7 +65,7 @@
 
 ## Difficulty Distribution
 
-- Easy: 36
+- Easy: 37
 
 ## Weakest Category
 
