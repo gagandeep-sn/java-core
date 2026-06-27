@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 34
+Total Programs: 35
 
 ## Categories
 
@@ -8,8 +8,9 @@ Total Programs: 34
 
 * [WordCount](Collections/WordCount.java)
 
-### Input Output (29)
+### Input Output (30)
 
+* [CalculateCGPA](Input Output/CalculateCGPA.java)
 * [CalculateDistBetweenTwoPoint](Input Output/CalculateDistBetweenTwoPoint.java)
 * [CalculateDiscount](Input Output/CalculateDiscount.java)
 * [DepreciationVal](Input Output/DepreciationVal.java)
