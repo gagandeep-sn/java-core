@@ -2,10 +2,11 @@
 
 **Period:** 2026-06-22 - 2026-06-28
 
-## Programs Added: 38
+## Programs Added: 39
 
 | Program | Category | Difficulty |
 |---|---|---|
+| ReverseString | Input Output | Easy |
 | FindNcrAndNpr | Input Output | Easy |
 | CalculateAverageMarks | Input Output | Easy |
 | CompoundIntrest | Input Output | Easy |
@@ -47,7 +48,7 @@
 
 ## Categories Covered
 
-- Input Output: 33
+- Input Output: 34
 - Recursion: 2
 - Sorting: 1
 - Searching: 1
@@ -66,7 +67,7 @@
 
 ## Difficulty Distribution
 
-- Easy: 38
+- Easy: 39
 
 ## Weakest Category
 
