@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 39
+Total Programs: 40
 
 ## Categories
 
@@ -8,8 +8,9 @@ Total Programs: 39
 
 * [WordCount](Collections/WordCount.java)
 
-### Input Output (34)
+### Input Output (35)
 
+* [ArmstrongNum](Input Output/ArmstrongNum (Copy).java)
 * [ReverseString](Input Output/ReverseString.java)
 * [FindNcrAndNpr](Input Output/FindNcrAndNpr.java)
 * [CalculateAverageMarks](Input Output/CalculateAverageMarks.java)
