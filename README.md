@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 42
+Total Programs: 43
 
 ## Categories
 
@@ -8,8 +8,9 @@ Total Programs: 42
 
 * [WordCount](Collections/WordCount.java)
 
-### Input Output (37)
+### Input Output (38)
 
+* [LCMofTwoNum](Input Output/LCMofTwoNum.java)
 * [HCFofTwoNum](Input Output/HCFofTwoNum.java)
 * [CheckPalindrome](Input Output/CheckPalindrome.java)
 * [ArmstrongNum](Input Output/ArmstrongNum (Copy).java)
