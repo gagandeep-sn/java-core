@@ -2,10 +2,11 @@
 
 **Period:** 2026-06-29 - 2026-07-05
 
-## Programs Added: 4
+## Programs Added: 5
 
 | Program | Category | Difficulty |
 |---|---|---|
+| CheckLeapYear | Input Output | Easy |
 | VowelOrConsonent | Input Output | Easy |
 | LCMofTwoNum | Input Output | Easy |
 | LCMofTwoNum | Input Output | Easy |
@@ -13,7 +14,7 @@
 
 ## Categories Covered
 
-- Input Output: 4
+- Input Output: 5
 
 ## Concepts Covered
 
@@ -22,11 +23,11 @@
 
 ## Difficulty Distribution
 
-- Easy: 4
+- Easy: 5
 
 ## Weakest Category
 
-**Input Output** — only 4 program(s) this week. Try adding more!
+**Input Output** — only 5 program(s) this week. Try adding more!
 **Collections** — no programs this week.
 **Recursion** — no programs this week.
 **Searching** — no programs this week.
