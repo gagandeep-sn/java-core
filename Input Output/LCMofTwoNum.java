@@ -7,8 +7,8 @@ public class LCMofTwoNum {
         int n1 = i.nextInt();
         System.out.print("Enter num2 : ");
         int n2 = i.nextInt();
-        int min = Math.min(n1,n2);
-        int d=min;
+        int max = Math.max(n1,n2);
+        int d= max;
         int lcm=0;
 
         while (true) {
