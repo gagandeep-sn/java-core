@@ -2,10 +2,11 @@
 
 **Period:** 2026-06-29 - 2026-07-05
 
-## Programs Added: 8
+## Programs Added: 9
 
 | Program | Category | Difficulty |
 |---|---|---|
+| CountOddEvenORNegNum | Input Output | Easy |
 | CountDaysGoOut | Input Output | Easy |
 | Perfectnum | Input Output | Easy |
 | SumOfDigit | Input Output | Easy |
@@ -17,7 +18,7 @@
 
 ## Categories Covered
 
-- Input Output: 8
+- Input Output: 9
 
 ## Concepts Covered
 
@@ -27,11 +28,11 @@
 
 ## Difficulty Distribution
 
-- Easy: 8
+- Easy: 9
 
 ## Weakest Category
 
-**Input Output** — only 8 program(s) this week. Try adding more!
+**Input Output** — only 9 program(s) this week. Try adding more!
 **Collections** — no programs this week.
 **Recursion** — no programs this week.
 **Searching** — no programs this week.
