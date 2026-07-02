@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 51
+Total Programs: 55
 
 ## Categories
 
@@ -8,8 +8,12 @@ Total Programs: 51
 
 * [WordCount](Collections/WordCount.java)
 
-### Input Output (46)
+### Input Output (50)
 
+* [MaxAndMIN3Num](Input Output/MaxAndMIN3Num.java)
+* [OddOrEven](Input Output/OddOrEven.java)
+* [ProductOfTwoNum](Input Output/ProductOfTwoNum.java)
+* [SumOFTwoNum](Input Output/SumOFTwoNum.java)
 * [EligibleForVoteorNot](Input Output/EligibleForVoteorNot.java)
 * [CountOddEvenORNegNum](Input Output/CountOddEvenORNegNum.java)
 * [CountDaysGoOut](Input Output/CountDaysGoOut.java)
