@@ -2,10 +2,11 @@
 
 **Period:** 2026-06-29 - 2026-07-05
 
-## Programs Added: 16
+## Programs Added: 17
 
 | Program | Category | Difficulty |
 |---|---|---|
+| CheckPythagoreanTriplet | Input Output | Easy |
 | CheckPrimeOrNot | Input Output | Easy |
 | CheckGrade | Input Output | Easy |
 | MaxAndMIN3Num | Input Output | Easy |
@@ -25,7 +26,7 @@
 
 ## Categories Covered
 
-- Input Output: 16
+- Input Output: 17
 
 ## Concepts Covered
 
@@ -35,11 +36,11 @@
 
 ## Difficulty Distribution
 
-- Easy: 16
+- Easy: 17
 
 ## Weakest Category
 
-**Input Output** — only 16 program(s) this week. Try adding more!
+**Input Output** — only 17 program(s) this week. Try adding more!
 **Collections** — no programs this week.
 **Recursion** — no programs this week.
 **Searching** — no programs this week.
