@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 56
+Total Programs: 57
 
 ## Categories
 
@@ -8,8 +8,9 @@ Total Programs: 56
 
 * [WordCount](Collections/WordCount.java)
 
-### Input Output (51)
+### Input Output (52)
 
+* [CheckPrimeOrNot](Input Output/CheckPrimeOrNot.java)
 * [CheckGrade](Input Output/CheckGrade.java)
 * [MaxAndMIN3Num](Input Output/MaxAndMIN3Num.java)
 * [OddOrEven](Input Output/OddOrEven.java)
