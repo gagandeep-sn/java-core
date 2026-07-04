@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 60
+Total Programs: 61
 
 ## Categories
 
@@ -8,8 +8,9 @@ Total Programs: 60
 
 * [WordCount](Collections/WordCount.java)
 
-### Input Output (55)
+### Input Output (56)
 
+* [SumOf_N_NaturalNum](Input Output/SumOf_N_NaturalNum.java)
 * [PalindromOrNot](Input Output/PalindromOrNot.java)
 * [FactorialOfNum](Input Output/FactorialOfNum.java)
 * [CheckPythagoreanTriplet](Input Output/CheckPythagoreanTriplet.java)

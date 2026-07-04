@@ -2,10 +2,11 @@
 
 **Period:** 2026-06-29 - 2026-07-05
 
-## Programs Added: 19
+## Programs Added: 20
 
 | Program | Category | Difficulty |
 |---|---|---|
+| SumOf_N_NaturalNum | Input Output | Easy |
 | PalindromOrNot | Input Output | Easy |
 | FactorialOfNum | Input Output | Easy |
 | CheckPythagoreanTriplet | Input Output | Easy |
@@ -28,7 +29,7 @@
 
 ## Categories Covered
 
-- Input Output: 19
+- Input Output: 20
 
 ## Concepts Covered
 
@@ -38,11 +39,11 @@
 
 ## Difficulty Distribution
 
-- Easy: 19
+- Easy: 20
 
 ## Weakest Category
 
-**Input Output** — only 19 program(s) this week. Try adding more!
+**Input Output** — only 20 program(s) this week. Try adding more!
 **Collections** — no programs this week.
 **Recursion** — no programs this week.
 **Searching** — no programs this week.
