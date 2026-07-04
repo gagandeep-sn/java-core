@@ -10,7 +10,26 @@ public class CheckPythagoreanTriplet {
         int b= i.nextInt();
         System.out.print("Enter c: ");
         int c= i.nextInt();
-        triplet(a,b,c);
+        int small1=0;
+        int small2=0;
+        int max=a;
+        if (max<b) {
+            max=b;
+           small1=a;
+        } else {
+            small1=b;
+        }
+        if (max<c) {
+            max=c;
+            small1=a;
+            small2=b;
+
+        } else {
+            small2=c;
+
+        }
+        triplet(small1,small2,max);
+
 
 
     }
