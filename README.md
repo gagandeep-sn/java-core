@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 64
+Total Programs: 65
 
 ## Categories
 
@@ -8,8 +8,9 @@ Total Programs: 64
 
 * [WordCount](Collections/WordCount.java)
 
-### Input Output (59)
+### Input Output (60)
 
+* [RunningSumOf1DArray](Input Output/RunningSumOf1DArray.java)
 * [PermutationArray](Input Output/PermutationArray.java)
 * [ConcatenationOfArray](Input Output/ConcatenationOfArray.java)
 * [CheckPrimeBetweenTwoNum](Input Output/CheckPrimeBetweenTwoNum.java)

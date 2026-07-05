@@ -2,10 +2,11 @@
 
 **Period:** 2026-06-29 - 2026-07-05
 
-## Programs Added: 23
+## Programs Added: 24
 
 | Program | Category | Difficulty |
 |---|---|---|
+| RunningSumOf1DArray | Input Output | Easy |
 | PermutationArray | Input Output | Easy |
 | ConcatenationOfArray | Input Output | Easy |
 | CheckPrimeBetweenTwoNum | Input Output | Easy |
@@ -32,7 +33,7 @@
 
 ## Categories Covered
 
-- Input Output: 23
+- Input Output: 24
 
 ## Concepts Covered
 
@@ -42,11 +43,11 @@
 
 ## Difficulty Distribution
 
-- Easy: 23
+- Easy: 24
 
 ## Weakest Category
 
-**Input Output** — only 23 program(s) this week. Try adding more!
+**Input Output** — only 24 program(s) this week. Try adding more!
 **Collections** — no programs this week.
 **Recursion** — no programs this week.
 **Searching** — no programs this week.
