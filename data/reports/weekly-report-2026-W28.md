@@ -2,31 +2,32 @@
 
 **Period:** 2026-07-06 - 2026-07-12
 
-## Programs Added: 3
+## Programs Added: 4
 
 | Program | Category | Difficulty |
 |---|---|---|
+| HowManyNumSmallerThanCurrent | Input Output | Easy |
 | RichestCustomerWealth | Input Output | Easy |
 | InputAndOutputOf2DArray | Input Output | Easy |
 | SuffleTheArray | Input Output | Easy |
 
 ## Categories Covered
 
-- Input Output: 3
+- Input Output: 4
 
 ## Concepts Covered
 
+- Standard I/O
 - Scanner
 - User Input
-- Standard I/O
 
 ## Difficulty Distribution
 
-- Easy: 3
+- Easy: 4
 
 ## Weakest Category
 
-**Input Output** — only 3 program(s) this week. Try adding more!
+**Input Output** — only 4 program(s) this week. Try adding more!
 **Collections** — no programs this week.
 **Recursion** — no programs this week.
 **Searching** — no programs this week.
