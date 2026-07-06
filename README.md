@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 66
+Total Programs: 68
 
 ## Categories
 
@@ -8,8 +8,10 @@ Total Programs: 66
 
 * [WordCount](Collections/WordCount.java)
 
-### Input Output (61)
+### Input Output (63)
 
+* [RichestCustomerWealth](Input Output/RichestCustomerWealth.java)
+* [InputAndOutputOf2DArray](Input Output/InputAndOutputOf2DArray.java)
 * [SuffleTheArray](Input Output/SuffleTheArray.java)
 * [RunningSumOf1DArray](Input Output/RunningSumOf1DArray.java)
 * [PermutationArray](Input Output/PermutationArray.java)
