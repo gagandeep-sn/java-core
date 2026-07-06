@@ -2,10 +2,12 @@
 
 **Period:** 2026-07-06 - 2026-07-12
 
-## Programs Added: 4
+## Programs Added: 6
 
 | Program | Category | Difficulty |
 |---|---|---|
+| NumberOfGoodPair | Input Output | Easy |
+| KidsWithGreatestNumOfCandies | Input Output | Easy |
 | HowManyNumSmallerThanCurrent | Input Output | Easy |
 | RichestCustomerWealth | Input Output | Easy |
 | InputAndOutputOf2DArray | Input Output | Easy |
@@ -13,7 +15,7 @@
 
 ## Categories Covered
 
-- Input Output: 4
+- Input Output: 6
 
 ## Concepts Covered
 
@@ -23,11 +25,11 @@
 
 ## Difficulty Distribution
 
-- Easy: 4
+- Easy: 6
 
 ## Weakest Category
 
-**Input Output** — only 4 program(s) this week. Try adding more!
+**Input Output** — only 6 program(s) this week. Try adding more!
 **Collections** — no programs this week.
 **Recursion** — no programs this week.
 **Searching** — no programs this week.

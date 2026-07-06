@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 69
+Total Programs: 71
 
 ## Categories
 
@@ -8,8 +8,10 @@ Total Programs: 69
 
 * [WordCount](Collections/WordCount.java)
 
-### Input Output (64)
+### Input Output (66)
 
+* [NumberOfGoodPair](Input Output/NumberOfGoodPair.java)
+* [KidsWithGreatestNumOfCandies](Input Output/KidsWithGreatestNumOfCandies.java)
 * [HowManyNumSmallerThanCurrent](Input Output/HowManyNumSmallerThanCurrent.java)
 * [RichestCustomerWealth](Input Output/RichestCustomerWealth.java)
 * [InputAndOutputOf2DArray](Input Output/InputAndOutputOf2DArray.java)
