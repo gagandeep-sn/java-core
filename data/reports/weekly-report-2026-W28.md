@@ -2,10 +2,11 @@
 
 **Period:** 2026-07-06 - 2026-07-12
 
-## Programs Added: 7
+## Programs Added: 8
 
 | Program | Category | Difficulty |
 |---|---|---|
+| Count Items Matching a Rule | Miscellaneous | Easy |
 | TargetArrayInGivenOrder | Input Output | Easy |
 | NumberOfGoodPair | Input Output | Easy |
 | KidsWithGreatestNumOfCandies | Input Output | Easy |
@@ -17,20 +18,22 @@
 ## Categories Covered
 
 - Input Output: 7
+- Miscellaneous: 1
 
 ## Concepts Covered
 
 - Standard I/O
 - Scanner
 - User Input
+- OOP
 
 ## Difficulty Distribution
 
-- Easy: 7
+- Easy: 8
 
 ## Weakest Category
 
-**Input Output** — only 7 program(s) this week. Try adding more!
+**Miscellaneous** — only 1 program(s) this week. Try adding more!
 **Collections** — no programs this week.
 **Recursion** — no programs this week.
 **Searching** — no programs this week.

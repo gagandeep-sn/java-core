@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 72
+Total Programs: 73
 
 ## Categories
 
@@ -77,6 +77,10 @@ Total Programs: 72
 * [CountNum](Input Output/CountNum.java)
 * [Fibbonachi](Input Output/Fibbonachi.java)
 * [GreaterNum](Input Output/GreaterNum.java)
+
+### Miscellaneous (1)
+
+* [Count Items Matching a Rule](Miscellaneous/CountItemsMatchingARule.java)
 
 ### Recursion (2)
 
