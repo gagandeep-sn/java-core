@@ -2,10 +2,11 @@
 
 **Period:** 2026-07-06 - 2026-07-12
 
-## Programs Added: 8
+## Programs Added: 9
 
 | Program | Category | Difficulty |
 |---|---|---|
+| CheckPangram | Input Output | Easy |
 | Count Items Matching a Rule | Miscellaneous | Easy |
 | TargetArrayInGivenOrder | Input Output | Easy |
 | NumberOfGoodPair | Input Output | Easy |
@@ -17,7 +18,7 @@
 
 ## Categories Covered
 
-- Input Output: 7
+- Input Output: 8
 - Miscellaneous: 1
 
 ## Concepts Covered
@@ -29,7 +30,7 @@
 
 ## Difficulty Distribution
 
-- Easy: 8
+- Easy: 9
 
 ## Weakest Category
 
