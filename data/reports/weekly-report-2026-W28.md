@@ -2,10 +2,11 @@
 
 **Period:** 2026-07-06 - 2026-07-12
 
-## Programs Added: 9
+## Programs Added: 10
 
 | Program | Category | Difficulty |
 |---|---|---|
+| FindTheHighestAltitude | Input Output | Easy |
 | CheckPangram | Input Output | Easy |
 | Count Items Matching a Rule | Miscellaneous | Easy |
 | TargetArrayInGivenOrder | Input Output | Easy |
@@ -18,7 +19,7 @@
 
 ## Categories Covered
 
-- Input Output: 8
+- Input Output: 9
 - Miscellaneous: 1
 
 ## Concepts Covered
@@ -30,7 +31,7 @@
 
 ## Difficulty Distribution
 
-- Easy: 9
+- Easy: 10
 
 ## Weakest Category
 

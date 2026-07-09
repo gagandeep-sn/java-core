@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 74
+Total Programs: 75
 
 ## Categories
 
@@ -8,8 +8,9 @@ Total Programs: 74
 
 * [WordCount](Collections/WordCount.java)
 
-### Input Output (68)
+### Input Output (69)
 
+* [FindTheHighestAltitude](Input Output/FindTheHighestAltitude.java)
 * [CheckPangram](Input Output/CheckPangram.java)
 * [TargetArrayInGivenOrder](Input Output/TargetArrayInGivenOrder.java)
 * [NumberOfGoodPair](Input Output/NumberOfGoodPair.java)
