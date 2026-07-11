@@ -1,11 +1,12 @@
 # Java Practice Repository
 
-Total Programs: 77
+Total Programs: 78
 
 ## Categories
 
-### Collections (1)
+### Collections (2)
 
+* [AddToArrayFormOfInteger](Collections/AddToArrayFormOfInteger.java)
 * [WordCount](Collections/WordCount.java)
 
 ### Input Output (71)
