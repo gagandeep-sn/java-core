@@ -2,10 +2,11 @@
 
 **Period:** 2026-07-06 - 2026-07-12
 
-## Programs Added: 13
+## Programs Added: 14
 
 | Program | Category | Difficulty |
 |---|---|---|
+| Simple API Test | Miscellaneous | Easy |
 | AddToArrayFormOfInteger | Collections | Easy |
 | FindNumberWithEvenDigit | Input Output | Easy |
 | MatrixDiagonalSum | Input Output | Easy |
@@ -23,25 +24,26 @@
 ## Categories Covered
 
 - Input Output: 11
+- Miscellaneous: 2
 - Collections: 1
-- Miscellaneous: 1
 
 ## Concepts Covered
 
 - Standard I/O
 - Scanner
 - User Input
+- Input Output
 - ArrayList
 - Dynamic Array
 - OOP
 
 ## Difficulty Distribution
 
-- Easy: 13
+- Easy: 14
 
 ## Weakest Category
 
-**Miscellaneous** — only 1 program(s) this week. Try adding more!
+**Collections** — only 1 program(s) this week. Try adding more!
 **Recursion** — no programs this week.
 **Searching** — no programs this week.
 **Sorting** — no programs this week.
