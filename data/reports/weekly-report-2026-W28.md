@@ -2,55 +2,58 @@
 
 **Period:** 2026-07-06 - 2026-07-12
 
-## Programs Added: 15
+## Programs Added: 16
 
 | Program | Category | Difficulty |
 |---|---|---|
+| Two Sum | Arrays | Easy |
 | Trapping Rain Water | Arrays | Medium |
-| Simple API Test | Miscellaneous | Easy |
-| AddToArrayFormOfInteger | Collections | Easy |
-| FindNumberWithEvenDigit | Input Output | Easy |
-| MatrixDiagonalSum | Input Output | Easy |
-| FindTheHighestAltitude | Input Output | Easy |
-| CheckPangram | Input Output | Easy |
+| API Test | Miscellaneous | Easy |
+| Add to Array Form of Integer | Arrays | Easy |
+| Find Number With Even Digit | Arrays | Easy |
+| Matrix Diagonal Sum | Arrays | Easy |
+| Find The Highest Altitude | Arrays | Easy |
+| Check Pangram | Strings | Easy |
 | Count Items Matching a Rule | Miscellaneous | Easy |
-| TargetArrayInGivenOrder | Input Output | Easy |
-| NumberOfGoodPair | Input Output | Easy |
-| KidsWithGreatestNumOfCandies | Input Output | Easy |
-| HowManyNumSmallerThanCurrent | Input Output | Easy |
-| RichestCustomerWealth | Input Output | Easy |
-| InputAndOutputOf2DArray | Input Output | Easy |
-| SuffleTheArray | Input Output | Easy |
+| Target Array in Given Order | Arrays | Medium |
+| Number of Good Pairs | Arrays | Easy |
+| Kids With the Greatest Number of Candies | Arrays | Easy |
+| How Many Numbers Are Smaller Than Current | Arrays | Easy |
+| Richest Customer Wealth | Arrays | Easy |
+| Input and Output of 2D Array | Arrays | Easy |
+| Shuffle the Array | Arrays | Easy |
 
 ## Categories Covered
 
-- Input Output: 11
+- Arrays: 13
 - Miscellaneous: 2
-- Arrays: 1
-- Collections: 1
+- Strings: 1
 
 ## Concepts Covered
 
-- Standard I/O
-- Scanner
-- User Input
+- Loops
+- Arrays
+- Array Manipulation
+- Nested Loops
+- Brute Force
 - Two Pointers
-- Greedy Algorithm
-- Input Output
-- ArrayList
-- Dynamic Array
-- OOP
+- Main Method
+- System.out.println
+- Basic Arithmetic
+- Conditional Statements
 
 ## Difficulty Distribution
 
 - Easy: 14
-- Medium: 1
+- Medium: 2
 
 ## Weakest Category
 
-**Collections** — only 1 program(s) this week. Try adding more!
+**Strings** — only 1 program(s) this week. Try adding more!
+**Collections** — no programs this week.
+**Input Output** — no programs this week.
+**Math** — no programs this week.
 **Recursion** — no programs this week.
-**Searching** — no programs this week.
 **Sorting** — no programs this week.
 
 ## Weekly Streak
