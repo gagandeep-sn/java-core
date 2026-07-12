@@ -1,8 +1,12 @@
 # Java Practice Repository
 
-Total Programs: 79
+Total Programs: 80
 
 ## Categories
+
+### Arrays (1)
+
+* [Trapping Rain Water](Arrays/TrappingRainWater.java)
 
 ### Collections (2)
 

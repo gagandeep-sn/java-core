@@ -2,10 +2,11 @@
 
 **Period:** 2026-07-06 - 2026-07-12
 
-## Programs Added: 14
+## Programs Added: 15
 
 | Program | Category | Difficulty |
 |---|---|---|
+| Trapping Rain Water | Arrays | Medium |
 | Simple API Test | Miscellaneous | Easy |
 | AddToArrayFormOfInteger | Collections | Easy |
 | FindNumberWithEvenDigit | Input Output | Easy |
@@ -25,6 +26,7 @@
 
 - Input Output: 11
 - Miscellaneous: 2
+- Arrays: 1
 - Collections: 1
 
 ## Concepts Covered
@@ -32,6 +34,8 @@
 - Standard I/O
 - Scanner
 - User Input
+- Two Pointers
+- Greedy Algorithm
 - Input Output
 - ArrayList
 - Dynamic Array
@@ -40,6 +44,7 @@
 ## Difficulty Distribution
 
 - Easy: 14
+- Medium: 1
 
 ## Weakest Category
 
