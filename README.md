@@ -1,11 +1,12 @@
 # Java Practice Repository
 
-Total Programs: 82
+Total Programs: 83
 
 ## Categories
 
-### Arrays (20)
+### Arrays (21)
 
+* [Reshape the Matrix](Arrays/ReshapeTheMatrix.java)
 * [Maximum Subarray](Arrays/MaximumSubarray.java)
 * [Two Sum](Arrays/TwoSum.java)
 * [Trapping Rain Water](Arrays/TrappingRainWater.java)
