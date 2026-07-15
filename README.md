@@ -1,11 +1,12 @@
 # Java Practice Repository
 
-Total Programs: 83
+Total Programs: 84
 
 ## Categories
 
-### Arrays (21)
+### Arrays (22)
 
+* [Plus One](Arrays/PlusOne.java)
 * [Reshape the Matrix](Arrays/ReshapeTheMatrix.java)
 * [Maximum Subarray](Arrays/MaximumSubarray.java)
 * [Two Sum](Arrays/TwoSum.java)
