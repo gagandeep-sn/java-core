@@ -2,21 +2,23 @@
 
 **Period:** 2026-07-13 - 2026-07-19
 
-## Programs Added: 3
+## Programs Added: 4
 
 | Program | Category | Difficulty |
 |---|---|---|
+| Flipping an Image | Arrays | Easy |
 | Plus One | Arrays | Medium |
 | Reshape the Matrix | Arrays | Medium |
 | Maximum Subarray | Arrays | Easy |
 
 ## Categories Covered
 
-- Arrays: 3
+- Arrays: 4
 
 ## Concepts Covered
 
 - Arrays
+- Pattern
 - Loops
 - Conditional Statements
 - 2D arrays
@@ -27,12 +29,12 @@
 
 ## Difficulty Distribution
 
-- Easy: 1
+- Easy: 2
 - Medium: 2
 
 ## Weakest Category
 
-**Arrays** — only 3 program(s) this week. Try adding more!
+**Arrays** — only 4 program(s) this week. Try adding more!
 **Collections** — no programs this week.
 **Input Output** — no programs this week.
 **Math** — no programs this week.
