@@ -1,11 +1,12 @@
 # Java Practice Repository
 
-Total Programs: 86
+Total Programs: 87
 
 ## Categories
 
-### Arrays (24)
+### Arrays (25)
 
+* [Greatest Common Divisor of Array](Arrays/FInd_Greatest_Common_Divisor_Of_Array.java)
 * [Find GCD of Array](Arrays/FindGcdOfArray.java)
 * [Flipping an Image](Arrays/FlippingAnImage.java)
 * [Plus One](Arrays/PlusOne.java)

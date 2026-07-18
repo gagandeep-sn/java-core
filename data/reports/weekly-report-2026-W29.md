@@ -2,10 +2,11 @@
 
 **Period:** 2026-07-13 - 2026-07-19
 
-## Programs Added: 5
+## Programs Added: 6
 
 | Program | Category | Difficulty |
 |---|---|---|
+| Greatest Common Divisor of Array | Arrays | Easy |
 | Find GCD of Array | Arrays | Easy |
 | Flipping an Image | Arrays | Easy |
 | Plus One | Arrays | Medium |
@@ -14,15 +15,15 @@
 
 ## Categories Covered
 
-- Arrays: 5
+- Arrays: 6
 
 ## Concepts Covered
 
 - Arrays
-- Sorting
-- Pattern
 - Loops
 - Conditional Statements
+- Sorting
+- Pattern
 - 2D arrays
 - looping
 - reshaping
@@ -31,12 +32,12 @@
 
 ## Difficulty Distribution
 
-- Easy: 3
+- Easy: 4
 - Medium: 2
 
 ## Weakest Category
 
-**Arrays** — only 5 program(s) this week. Try adding more!
+**Arrays** — only 6 program(s) this week. Try adding more!
 **Collections** — no programs this week.
 **Input Output** — no programs this week.
 **Math** — no programs this week.
