@@ -1,11 +1,12 @@
 # Java Practice Repository
 
-Total Programs: 85
+Total Programs: 86
 
 ## Categories
 
-### Arrays (23)
+### Arrays (24)
 
+* [Find GCD of Array](Arrays/FindGcdOfArray.java)
 * [Flipping an Image](Arrays/FlippingAnImage.java)
 * [Plus One](Arrays/PlusOne.java)
 * [Reshape the Matrix](Arrays/ReshapeTheMatrix.java)
