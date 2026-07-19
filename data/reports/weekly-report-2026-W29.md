@@ -2,10 +2,11 @@
 
 **Period:** 2026-07-13 - 2026-07-19
 
-## Programs Added: 6
+## Programs Added: 7
 
 | Program | Category | Difficulty |
 |---|---|---|
+| Lucky Numbers in Matrix | Arrays | Easy |
 | Greatest Common Divisor of Array | Arrays | Easy |
 | Find GCD of Array | Arrays | Easy |
 | Flipping an Image | Arrays | Easy |
@@ -15,7 +16,7 @@
 
 ## Categories Covered
 
-- Arrays: 6
+- Arrays: 7
 
 ## Concepts Covered
 
@@ -32,12 +33,12 @@
 
 ## Difficulty Distribution
 
-- Easy: 4
+- Easy: 5
 - Medium: 2
 
 ## Weakest Category
 
-**Arrays** — only 6 program(s) this week. Try adding more!
+**Arrays** — only 7 program(s) this week. Try adding more!
 **Collections** — no programs this week.
 **Input Output** — no programs this week.
 **Math** — no programs this week.
