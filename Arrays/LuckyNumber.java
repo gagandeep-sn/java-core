@@ -3,6 +3,12 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/*
+A lucky number in a matrix is an element that is:
+The smallest number in its row, and
+The largest number in its column.
+*/
+
 public class LuckyNumber {
 
     public static List<Integer> luckyNumbers(int[][] matrix) {
@@ -39,7 +45,8 @@ public class LuckyNumber {
     }
 
     public static void main(String[] args) {
-
+        
+// In this Given matrix 15 is the biggest num in column and smallest number in the row.
         int[][] matrix = {
                 {3, 7, 8},
                 {9, 11, 13},
