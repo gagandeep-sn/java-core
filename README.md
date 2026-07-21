@@ -1,6 +1,6 @@
 # Java Practice Repository
 
-Total Programs: 89
+Total Programs: 90
 
 ## Categories
 
@@ -105,8 +105,9 @@ Total Programs: 89
 * [Factorial Recursion](Recursion/FactorialRecursion.java)
 * [Countdown Program](Recursion/CountDown.java)
 
-### Sorting (2)
+### Sorting (3)
 
+* [Order-Agnostic Binary Search](Sorting/OrderAgnosticBinarySearch.java)
 * [Binary Search](Sorting/BinarySearch.java)
 * [Selection Sort Implementation](Sorting/SelectionSort.java)
 
