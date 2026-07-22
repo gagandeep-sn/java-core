@@ -2,16 +2,18 @@
 
 **Period:** 2026-07-20 - 2026-07-26
 
-## Programs Added: 2
+## Programs Added: 3
 
 | Program | Category | Difficulty |
 |---|---|---|
+| Ceiling Element in Array | Arrays | Easy |
 | Order-Agnostic Binary Search | Sorting | Medium |
 | Binary Search | Sorting | Easy |
 
 ## Categories Covered
 
 - Sorting: 2
+- Arrays: 1
 
 ## Concepts Covered
 
@@ -24,13 +26,12 @@
 
 ## Difficulty Distribution
 
-- Easy: 1
+- Easy: 2
 - Medium: 1
 
 ## Weakest Category
 
-**Sorting** — only 2 program(s) this week. Try adding more!
-**Arrays** — no programs this week.
+**Arrays** — only 1 program(s) this week. Try adding more!
 **Collections** — no programs this week.
 **Input Output** — no programs this week.
 **Math** — no programs this week.

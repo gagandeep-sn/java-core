@@ -1,11 +1,12 @@
 # Java Practice Repository
 
-Total Programs: 90
+Total Programs: 91
 
 ## Categories
 
-### Arrays (26)
+### Arrays (27)
 
+* [Ceiling Element in Array](Arrays/Ceiling.java)
 * [Lucky Numbers in Matrix](Arrays/LuckyNumber.java)
 * [Greatest Common Divisor of Array](Arrays/FInd_Greatest_Common_Divisor_Of_Array.java)
 * [Find GCD of Array](Arrays/FindGcdOfArray.java)
