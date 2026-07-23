@@ -2,10 +2,11 @@
 
 **Period:** 2026-07-20 - 2026-07-26
 
-## Programs Added: 4
+## Programs Added: 5
 
 | Program | Category | Difficulty |
 |---|---|---|
+| First and Last Position of Element in Array | Arrays | Medium |
 | Ceiling Element Finder | Arrays | Medium |
 | Ceiling Element in Array | Arrays | Easy |
 | Order-Agnostic Binary Search | Sorting | Medium |
@@ -13,23 +14,23 @@
 
 ## Categories Covered
 
-- Arrays: 2
+- Arrays: 3
 - Sorting: 2
 
 ## Concepts Covered
 
 - Arrays
 - Binary Search
+- Searching
 - Big-O Notation
 - Loops
 - Conditional Statements
 - Sorting
-- Searching
 
 ## Difficulty Distribution
 
 - Easy: 2
-- Medium: 2
+- Medium: 3
 
 ## Weakest Category
 

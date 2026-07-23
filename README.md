@@ -1,11 +1,12 @@
 # Java Practice Repository
 
-Total Programs: 92
+Total Programs: 93
 
 ## Categories
 
-### Arrays (28)
+### Arrays (29)
 
+* [First and Last Position of Element in Array](Arrays/FirstAndLastPosition.java)
 * [Ceiling Element Finder](Arrays/Floor.java)
 * [Ceiling Element in Array](Arrays/Ceiling.java)
 * [Lucky Numbers in Matrix](Arrays/LuckyNumber.java)
