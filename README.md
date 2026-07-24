@@ -1,11 +1,12 @@
 # Java Practice Repository
 
-Total Programs: 93
+Total Programs: 94
 
 ## Categories
 
-### Arrays (29)
+### Arrays (30)
 
+* [Infinite Array Search](Arrays/InfiniteArray.java)
 * [First and Last Position of Element in Array](Arrays/FirstAndLastPosition.java)
 * [Ceiling Element Finder](Arrays/Floor.java)
 * [Ceiling Element in Array](Arrays/Ceiling.java)
