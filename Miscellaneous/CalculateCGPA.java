@@ -17,6 +17,7 @@ public class CalculateCGPA {
           double overallpercentage = total/semester;
           double cgpa = overallpercentage/9.5;
 
+   //Here we taking %.2f to take only two value after the point like 2.9289394 only take 2.93     
         System.out.printf("Your CGPA is : %.2f",cgpa);
     }
 }
