@@ -2,12 +2,12 @@ public class Floor {
     public static void main(String[] args) {
         int[] arr = {-6, -5, 0, 3, 6, 28, 43, 69};
         int target = 5;
-        int ans = ceiling(arr, target);
+        int ans = floor(arr, target);
         System.out.println("The ceiling element is : " + arr[ans]);
 
     }
-
-    static int ceiling(int[] arr, int target) {
+// This function is for binary serarch
+    static int floor(int[] arr, int target) {
         int start = 0;
         int end = arr.length - 1;
 
@@ -25,6 +25,7 @@ public class Floor {
                 return middle;
             }
         }
+        // This return the larget number which is smaller than target.
         return end;
     }
 }
