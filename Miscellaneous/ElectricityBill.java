@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// It take biil rate 5 rupee till 200 unit then 201 to 300 it take rate 7 after 300 it take rate 10 rupee
 public class ElectricityBill {
     public static void main(String[] args) {
         Scanner i = new Scanner(System.in);
